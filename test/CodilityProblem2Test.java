@@ -3,56 +3,56 @@ import org.junit.Test;
 
 public class CodilityProblem2Test {
     @Test
-    public void test1(){
+    public void arrayInOrder(){
         int[] inputArray = {1, 1, 2, 3, 3};
         int inputK = 3;
         boolean actualResult =
-                CodilityProblem2.isArrayInAccendingOrderWithinRange1ToK(inputArray, inputK);
-        Assert.assertEquals(true, actualResult);
+                CodilityProblem2.isArrayInAscendingOrderWithinRange1ToK(inputArray, inputK);
+        Assert.assertTrue(actualResult);
     }
 
     @Test
-    public void test2(){
+    public void missingOneIntegerInTheMiddleOfTheArray(){
         int[] inputArray = {1, 1, 3};
         int inputK = 3;
         boolean actualResult =
-                CodilityProblem2.isArrayInAccendingOrderWithinRange1ToK(inputArray, inputK);
-        Assert.assertEquals(false, actualResult);
+                CodilityProblem2.isArrayInAscendingOrderWithinRange1ToK(inputArray, inputK);
+        Assert.assertFalse(actualResult);
     }
 
     @Test
-    public void test3(){
+    public void maximumValueExceedsK(){
         int[] inputArray = {1, 1, 3};
         int inputK = 2;
         boolean actualResult =
-                CodilityProblem2.isArrayInAccendingOrderWithinRange1ToK(inputArray, inputK);
-        Assert.assertEquals(false, actualResult);
+                CodilityProblem2.isArrayInAscendingOrderWithinRange1ToK(inputArray, inputK);
+        Assert.assertFalse( actualResult);
     }
 
     @Test
-    public void test4(){
+    public void arrayLengthOneWithMaxValueInArrayLessThanK(){
         int[] inputArray = {1};
         int inputK = 2;
         boolean actualResult =
-                CodilityProblem2.isArrayInAccendingOrderWithinRange1ToK(inputArray, inputK);
-        Assert.assertEquals(false, actualResult);
+                CodilityProblem2.isArrayInAscendingOrderWithinRange1ToK(inputArray, inputK);
+        Assert.assertFalse(actualResult);
     }
 
     @Test
-    public void test5(){
+    public void arrayLengthOneWithMaxValueInArrayEqualsK(){
         int[] inputArray = {1};
         int inputK = 1;
         boolean actualResult =
-                CodilityProblem2.isArrayInAccendingOrderWithinRange1ToK(inputArray, inputK);
-        Assert.assertEquals(true, actualResult);
+                CodilityProblem2.isArrayInAscendingOrderWithinRange1ToK(inputArray, inputK);
+        Assert.assertTrue(actualResult);
     }
 
     @Test
-    public void test6(){
+    public void emptyArray(){
         int[] inputArray = {};
         int inputK = 1;
         boolean actualResult =
-                CodilityProblem2.isArrayInAccendingOrderWithinRange1ToK(inputArray, inputK);
-        Assert.assertEquals(false, actualResult);
+                CodilityProblem2.isArrayInAscendingOrderWithinRange1ToK(inputArray, inputK);
+        Assert.assertFalse(actualResult);
     }
 }

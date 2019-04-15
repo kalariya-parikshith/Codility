@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="637201bd-9ecb-41ff-9608-3ee8fac0812e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CodilityProblem2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MinimumAdjacentDifference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/CodilityProblem2Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/MinimumAdjacentDifferenceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Codility/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Codility/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/Codility/TestCases.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/TestCases.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodilityProblem2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodilityProblem2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MinimumAdjacentDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MinimumAdjacentDifference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/CodilityProblem2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/CodilityProblem2Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,8 +15,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -34,17 +27,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MinimumAdjacentDifference.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="361">
+              <caret line="19" column="82" selection-start-line="19" selection-start-column="82" selection-end-line="19" selection-end-column="82" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/MinimumAdjacentDifferenceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="817">
-              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+            <state relative-caret-position="323">
+              <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -55,17 +48,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CodilityProblem2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+            <state relative-caret-position="247">
+              <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/CodilityProblem2Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="55" column="33" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
+            <state relative-caret-position="950">
+              <caret line="50" column="26" selection-start-line="50" selection-start-column="26" selection-end-line="50" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -82,6 +75,14 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>lenght</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>length</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -92,10 +93,10 @@
         <option value="$PROJECT_DIR$/test/TestCases.java" />
         <option value="$PROJECT_DIR$/test/MinimumAdjacentDifference.java" />
         <option value="$PROJECT_DIR$/test/CodilityProblem2.java" />
+        <option value="$PROJECT_DIR$/test/MinimumAdjacentDifferenceTest.java" />
+        <option value="$PROJECT_DIR$/src/MinimumAdjacentDifference.java" />
         <option value="$PROJECT_DIR$/src/CodilityProblem2.java" />
         <option value="$PROJECT_DIR$/test/CodilityProblem2Test.java" />
-        <option value="$PROJECT_DIR$/src/MinimumAdjacentDifference.java" />
-        <option value="$PROJECT_DIR$/test/MinimumAdjacentDifferenceTest.java" />
       </list>
     </option>
   </component>
@@ -130,8 +131,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -153,7 +154,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CodilityProblem2Test.test6">
+  <component name="RunManager" selected="JUnit.CodilityProblem2Test">
     <configuration name="CodilityProblem2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Codility" />
       <option name="PACKAGE_NAME" value="" />
@@ -211,9 +212,9 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CodilityProblem2Test.test6" />
         <item itemvalue="JUnit.CodilityProblem2Test" />
         <item itemvalue="JUnit.MinimumAdjacentDifferenceTest" />
+        <item itemvalue="JUnit.CodilityProblem2Test.test6" />
         <item itemvalue="JUnit.CodilityProblem2Test.test5" />
         <item itemvalue="JUnit.CodilityProblem2Test.test4" />
       </list>
@@ -233,24 +234,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MinimumAdjacentDifferenceTest_test2 - 2019.04.10 at 16h 37m 46s.xml">
-      <configuration name="MinimumAdjacentDifferenceTest.test2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MinimumAdjacentDifferenceTest_test3 - 2019.04.10 at 16h 38m 37s.xml">
-      <configuration name="MinimumAdjacentDifferenceTest.test3" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MinimumAdjacentDifferenceTest_test4 - 2019.04.10 at 16h 39m 27s.xml">
-      <configuration name="MinimumAdjacentDifferenceTest.test4" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MinimumAdjacentDifferenceTest - 2019.04.10 at 16h 41m 02s.xml">
-      <configuration name="MinimumAdjacentDifferenceTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CodilityProblem2Test - 2019.04.10 at 16h 41m 24s.xml">
-      <configuration name="CodilityProblem2Test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CodilityProblem2Test_test4 - 2019.04.10 at 16h 42m 11s.xml">
-      <configuration name="CodilityProblem2Test.test4" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CodilityProblem2Test_test4 - 2019.04.10 at 16h 43m 59s.xml">
       <configuration name="CodilityProblem2Test.test4" configurationId="JUnit" />
     </history-entry>
@@ -263,39 +246,57 @@
     <history-entry file="MinimumAdjacentDifferenceTest - 2019.04.10 at 16h 48m 28s.xml">
       <configuration name="MinimumAdjacentDifferenceTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MinimumAdjacentDifferenceTest - 2019.04.10 at 16h 50m 46s.xml">
+      <configuration name="MinimumAdjacentDifferenceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MinimumAdjacentDifferenceTest - 2019.04.10 at 16h 51m 53s.xml">
+      <configuration name="MinimumAdjacentDifferenceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CodilityProblem2Test - 2019.04.10 at 16h 52m 03s.xml">
+      <configuration name="CodilityProblem2Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CodilityProblem2Test_test6 - 2019.04.10 at 16h 53m 17s.xml">
+      <configuration name="CodilityProblem2Test.test6" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CodilityProblem2Test - 2019.04.15 at 11h 09m 14s.xml">
+      <configuration name="CodilityProblem2Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MinimumAdjacentDifferenceTest - 2019.04.15 at 11h 09m 20s.xml">
+      <configuration name="MinimumAdjacentDifferenceTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1366" height="769" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25377643" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="SonarLint" />
-      <window_info anchor="bottom" id="Version Control" weight="0.3288889" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.2548148" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.3288889" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3288889" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3288889" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Codota" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3288889" />
+      <window_info anchor="bottom" id="SonarLint" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.2548148" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3288889" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Codota" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
     <layout-to-restore>
       <window_info id="Image Layers" order="0" />
@@ -332,10 +333,17 @@
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/CodilityProblem2Test.java">
+    <entry file="file://$PROJECT_DIR$/src/MinimumAdjacentDifference.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="55" column="33" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
+        <state relative-caret-position="361">
+          <caret line="19" column="82" selection-start-line="19" selection-start-column="82" selection-end-line="19" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/MinimumAdjacentDifferenceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -344,22 +352,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CodilityProblem2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        <state relative-caret-position="247">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MinimumAdjacentDifference.java">
+    <entry file="file://$PROJECT_DIR$/test/CodilityProblem2Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/MinimumAdjacentDifferenceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="817">
-          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        <state relative-caret-position="950">
+          <caret line="50" column="26" selection-start-line="50" selection-start-column="26" selection-end-line="50" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
